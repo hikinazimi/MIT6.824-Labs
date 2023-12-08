@@ -17,7 +17,7 @@ MIT 6.824: Distributed Systems in Spring 2023 的课程笔记、论文总结、�
 视频资料：
 
 * [YouTube - 英文原版](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos)
-* [B站 - 中文字幕]((https://www.bilibili.com/video/BV1R7411t71W))
+* [B站 - 中文字幕](https://www.bilibili.com/video/BV1R7411t71W)
 
 课程讲义：
 
