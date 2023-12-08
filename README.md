@@ -1,6 +1,6 @@
 # MIT 6.824 Study Notes
 
-MIT 6.824: Distributed Systems in Spring 2020 的课程笔记、论文总结以及实验实现思路。
+MIT 6.824: Distributed Systems in Spring 2023 的课程笔记、论文总结、实验代码及实现思路。
 
 目录：
 
