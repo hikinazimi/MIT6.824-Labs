@@ -1,4 +1,4 @@
 # VS Code related
 *.code-workspace
-.vscode
-Lab docs/*
+ Reports/*
+
